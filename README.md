@@ -67,16 +67,6 @@ MongoDB • MySQL • SQLite • Supabase • Git • GitHub
 * Secure authentication and Stripe payments
 * Multi role dashboards for users and providers
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket-x\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-x\&layout=compact\&hide_border=true)
-
----
-
 ## Contact
 
 Email: [thakoresanket@gmail.com](mailto:thakoresanket@gmail.com)
