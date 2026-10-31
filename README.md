@@ -55,17 +55,17 @@ MongoDB • MySQL • SQLite • Supabase • Git • GitHub
 * Time-series forecasting with lag and rolling features
 * FastAPI backend with Streamlit dashboard
 
+### E-Commerce Customer Analytics Platform
+
+* RFM segmentation, CLV regression and churn prediction with SHAP explainability
+* LangGraph agent with MCP tools over DuckDB SQL and a sandboxed Python runtime
+* FastAPI scoring API with a React analytics workspace and Streamlit dashboard
+
 ### Real-Time Object Detection System
 
 * Real-time people detection using YOLOv8
 * GPU accelerated inference and video streaming
 * Detection logging with MongoDB and SQLite
-
-### Cura – All-in-One Service Platform
-
-* Full-stack service marketplace
-* Secure authentication and Stripe payments
-* Multi role dashboards for users and providers
 
 ## Contact
 
