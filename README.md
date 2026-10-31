@@ -55,11 +55,11 @@ MongoDB • MySQL • SQLite • Supabase • Git • GitHub
 * Time-series forecasting with lag and rolling features
 * FastAPI backend with Streamlit dashboard
 
-### E-Commerce Customer Analytics Platform
+### AI Powered E-Commerce Customer Analytics Platform
 
-* RFM segmentation, CLV regression and churn prediction with SHAP explainability
-* LangGraph agent with MCP tools over DuckDB SQL and a sandboxed Python runtime
-* FastAPI scoring API with a React analytics workspace and Streamlit dashboard
+* Conversational AI data analyst built with LangGraph, MCP tools and a local LLM
+* Natural language to SQL over DuckDB with a sandboxed Python analysis runtime
+* RFM, CLV and churn models with SHAP, served by FastAPI and a React workspace
 
 ### Real-Time Object Detection System
 
